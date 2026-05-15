@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+x64/
 # Object files
 *.o
 *.ko
