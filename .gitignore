@@ -6,6 +6,7 @@ x64/
 *.ko
 *.obj
 *.elf
+*.json
 
 # Linker output
 *.ilk
