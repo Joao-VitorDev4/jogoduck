@@ -1,5 +1,0 @@
-Jogador: mint | Pontos: 480
-Jogador: joao | Pontos: 440
-Jogador: muc | Pontos: 365
-Jogador: jv | Pontos: 340
-Jogador: kaka | Pontos: 190
